@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /media/chen/E/ros/project/orb_slam1_ws/src/ORB_SLAM/build/devel/setup.sh
